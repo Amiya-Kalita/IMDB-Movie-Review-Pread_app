@@ -1,4 +1,4 @@
-```markdown
+
 # 🎬 IMDB Movie Review Sentiment Analysis using BERT + Streamlit
 
 A complete end-to-end **Sentiment Analysis** project using **BERT (Bidirectional Encoder Representations from Transformers)** fine-tuned on the **IMDB 50K Movie Reviews Dataset**.
@@ -34,7 +34,7 @@ sentiment_app/
 │── requirements.txt            # Dependencies
 │── README.md                   # Documentation
 
-````
+
 
 ---
 
@@ -160,3 +160,4 @@ For questions or feature requests, feel free to reach out or open an issue.
 ```
 
 ```
+
